@@ -1,0 +1,104 @@
+table{
+		border: 1;	 
+		font-family: arial; 
+		font-size:20px;
+		background-color:#77FFEE; 
+}
+
+body{
+	background-image:  url(../picture/ww.jpg);
+	background-repeat: ;
+		
+}
+#show{
+	font-size:25px;
+	color:#000079;
+
+}
+	
+.distance{
+	margin-left:340px;
+	font-size:22px;
+
+}
+#main1 {
+		background-color:#DCB5FF; 
+		float:left;
+		BORDER-RIGHT: #9999FF 10px inset;
+		BORDER-TOP: #9999FF 10px inset; 
+		OVERFLOW: auto; 
+		BORDER-LEFT: #9999FF 10px inset;
+		WIDTH: 250px; 
+		BORDER-BOTTOM: #9999FF 10px inset; 
+		HEIGHT: 490px
+		
+		
+}
+#song{
+	float:left;
+	BORDER-RIGHT: #00BBFF 10px inset; 
+	BORDER-TOP:#00BBFF 10px inset; 
+	OVERFLOW: auto; 
+	BORDER-LEFT:#00BBFF 10px inset; 
+	width:520px;
+	BORDER-BOTTOM:#00BBFF 10px inset; 
+	HEIGHT: 490px
+
+}
+#music_player{
+		width:400px;
+		height:50px;
+		margin-left:600px;
+	
+}
+#was{
+		margin-left:500px;
+		margin-right:auto;
+		color:#5555FF;
+		width:500px;
+		height:50px;
+		text-align:center;
+}
+#fottor{
+	width:500px;
+	height:100px;
+	font-size:35px;
+	margin-top:520px;
+	margin-bottom:0px;
+	margin-left:1100px;
+}
+
+#topnav{
+	width:800px;
+	height:50px;
+	margin-right:auto;
+	margin-left:180px;
+	
+
+}
+#topnav  li
+{
+	font-family:Microsoft JhengHei; 
+	font-size:25px;   <!--改框框-->
+	float:none;
+	padding:4px;   		
+	background-color:#FF6600;   
+	list-style-type:none; 
+	width:100px;	
+	text-align:center;	
+	
+	margin:5px;      <!--列表間的空格-->
+	padding:0px;
+	float:right;  	 <!--控制列表位置-->
+}
+#topnav  li  a{
+	color:#0000C6;
+	text-decoration:none;
+	font-size:25px;
+}
+
+a:hover {       
+		color: #5555FF;
+		background-color: #FFCC99;
+		
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="D:\101406077\adt-bundle-windows-x86-20140702" version="1.8.0_20">
+<bootpath>
+<entry path="D:\101406077\adt-bundle-windows-x86-20140702\lib\resources.jar"/>
+<entry path="D:\101406077\adt-bundle-windows-x86-20140702\lib\rt.jar"/>
+<entry path="D:\101406077\adt-bundle-windows-x86-20140702\lib\sunrsasign.jar"/>
+<entry path="D:\101406077\adt-bundle-windows-x86-20140702\lib\jsse.jar"/>
+<entry path="D:\101406077\adt-bundle-windows-x86-20140702\lib\jce.jar"/>
+<entry path="D:\101406077\adt-bundle-windows-x86-20140702\lib\charsets.jar"/>
+<entry path="D:\101406077\adt-bundle-windows-x86-20140702\lib\jfr.jar"/>
+<entry path="D:\101406077\adt-bundle-windows-x86-20140702\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="D:\101406077\adt-bundle-windows-x86-20140702\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="D:\101406077\adt-bundle-windows-x86-20140702\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>

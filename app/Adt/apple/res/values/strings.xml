@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">apple</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_name1">Name1Activity</string>
+    <string name="title_activity_name2">Name2Activity</string>
+
+    <string-array name="Name1">
+        <item>周杰倫</item>
+        <item>李榮浩</item>
+        <item>方大同</item>
+        <item>嚴爵</item>
+    </string-array>
+    <string-array android:id="@+id/stringarray1" name="Name2" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <item>葛仲珊</item>
+        <item>范瑋琪</item>
+        <item>鄧紫琪</item>
+        <item>鄧福如</item>
+    </string-array>
+
+    <string name="title_activity_man">男歌手</string><string-array name="m1">
+        <item>忘情水</item>
+        <item>一起走過日子</item>
+        <item>孤星淚</item>
+        <item>難免有錯</item>
+        <item>十全十美</item>
+        <item>17歲</item>
+        <item>藕斷絲連</item>
+        <item>獨自去偷歡</item>
+    </string-array><string-array name="m2">
+        <item>十年</item>
+        <item>你給我聽好</item>
+        <item>你的背包</item>
+        <item>謝謝儂</item>
+        <item>謝謝</item>
+        <item>不如不見</item>
+        <item>好久不見</item>
+    </string-array><string-array name="m3">
+        <item>簡單愛</item>
+        <item>稻香</item>
+        <item>青花瓷</item>
+        <item>依然范特西</item>
+        <item>給我一首歌的時間</item>
+        <item>蒲公英約定</item>
+        <item>彩虹</item>
+        <item>菊花台</item>
+        <item>一路向北</item>
+    </string-array><string-array name="m4">
+        <item>痴心絕對</item>
+        <item>手放開</item>
+        <item>寂寞.好了</item>
+        <item>收放自如</item>
+        <item>關於你的歌</item>
+        <item>灰色地帶</item>
+        <item>不安</item>
+    </string-array><string-array name="m5">
+        <item>修練愛情</item>
+        <item>Love UU</item>
+        <item>生生</item>
+        <item>Freeze</item>
+        <item>黑鍵</item>
+        <item>If Only</item>
+        <item>浪漫血液</item>
+    </string-array>
+    <string name="title_activity_woman">女歌手</string><string-array name="w1">
+        <item>玫瑰色的你</item>
+        <item>寶貝</item>
+        <item>喜歡</item>
+        <item>如何</item>
+        <item>Dear you and the</item>
+        <item>Selling</item>
+    </string-array><string-array name="w2">
+        <item>仨人</item>
+        <item>我不是你的那首情歌</item>
+        <item>下一個天亮</item>
+        <item>在樹上唱歌</item>
+        <item>心牆</item>
+        <item>陪著我的時候想著他</item>
+        <item>不想有遺憾</item>
+    </string-array><string-array name="w3">
+        <item>時間的歌</item>
+        <item>太陽</item>
+        <item>Cheer</item>
+        <item>流浪者之歌</item>
+        <item>旅行的意義</item>
+        <item>偶然與巧合</item>
+        <item>Demo 3</item>
+    </string-array><string-array name="w4">
+        <item>小幸運</item>
+        <item>你就不要想起我</item>
+        <item>寂寞寂寞就好</item>
+        <item>渺小</item>
+        <item>Waitting for you</item>
+        <item>你太猖狂</item>
+        <item>不醉不會</item>
+    </string-array>
+    <string name="title_activity_team">團體</string><string-array name="t1">
+        <item >垃圾車</item>
+        <item >尬車</item>
+        <item >將軍令</item>
+        <item >擁抱</item>
+        <item >我不願讓你一個人</item>
+        <item >盛夏光年</item>
+    </string-array><string-array name="t2">
+        <item >喝采</item>
+        <item >好久不見</item>
+        <item >愛情漫遊</item>
+        <item >傳說</item>
+        <item >無所謂</item>
+        <item >一光年</item>
+    </string-array><string-array name="t3">
+        <item >一百個太陽月亮</item>
+        <item >再見王子</item>
+        <item >小飛行</item>
+        <item >你的力量</item>
+        <item >我們的打氣歌</item>
+        <item >降臨</item>
+    </string-array><string-array name="t4">
+        <item >小宇宙</item>
+        <item >小情歌</item>
+        <item >無言歌</item>
+        <item >被雨困住的城市</item>
+        <item >無與倫比的美麗</item>
+        <item >雨中的操場</item>
+    </string-array>
+
+</resources>

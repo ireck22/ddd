@@ -1,0 +1,4 @@
+float 浮動位置
+position:relative: 這代表元素被放的地方將會與預設的地方有所不同。不同的程度是依照 top、bottom、left、和 right 的值而定。
+display:block 區塊元素 
+margin 邊界

@@ -1,0 +1,69 @@
+body {
+    
+	background-image:url( 'picture/a5.jpg' );
+    height:100px;
+	
+}
+.right {
+    float: right;
+    position: relative;
+    width: 50px;
+    right: 30px;
+}
+.line {
+    width: 100%;
+    position: relative;
+}
+.name {
+    font-weight: bold;
+}
+#chatwrapper {
+    top: 10px;
+    width: 540px;
+    position: relative;
+    margin: 0 auto;
+    border: solid 1px;
+    height: 50px;
+}
+#chatwindow {
+    top: 20px;
+    left: 20px; 
+    width: 500px;
+    position: relative;
+    color: #000000;
+    height: 450px;
+    overflow: auto;
+}
+#chatform {
+    position: relative;
+    top: 5px;    
+    height: 100px;
+    width: 100%;
+} 
+#chat-form {
+    position: relative;
+    top: 25px;
+    left: 20px;
+}
+#chatmessage {
+    width: 400px;
+}
+#send {
+    width: 100px;
+}
+#nameform {
+    margin: 0 auto;
+    width: 300px;
+    display: block;    
+}
+.welcome {
+    float: left;
+    position: relative;
+    left: 20px;
+    width: 200px;
+}
+.exit {
+    float: right;
+    position: relative;
+    width: 100px;
+}
